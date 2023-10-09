@@ -121,7 +121,7 @@ input[type="color"],
 
 }
 .form-control:focus {
-    border-bottom: 2px solid #3cce85;
+    border-bottom: 2px solid #36ad72;
     box-shadow:none; 
 }
 
@@ -289,7 +289,7 @@ Separator
     height: 4px;
     width: 130px;
     margin: auto;
-    background: #3cce85;
+    background: #33a16a;
 }
 
 .separator2 {
@@ -320,7 +320,7 @@ Button
 }
 .btn-primary{
     color: #fff;
-    background-color: #3cce85;
+    background-color: #379c6a;
     border-color: transparent;
     transition: .3s ease-in-out;
     -webkit-transition: .3s ease-in-out;
@@ -481,7 +481,7 @@ textarea::-ms-input-placeholder
     background-color: transparent;
 }
 .menu-bg{
-    background:#3cce85 ;
+    background:#2e865a ;
 }
 
 
@@ -529,7 +529,7 @@ textarea::-ms-input-placeholder
     height: 80px;
     width: 80px;
     border-radius: 100%;
-    color: #3cce85;
+    color: #2f8f5f;
     font-size: 36px;
     line-height: 80px;
     margin-bottom: 10px;
@@ -598,8 +598,8 @@ textarea::-ms-input-placeholder
 }
 
 .button:hover ,.button:focus {
-    color: #3cce85;
-    border-bottom: 1px solid #3cce85;
+    color: #39a06d;
+    border-bottom: 1px solid #359b68;
 }
 
 /*.button:active,
@@ -777,7 +777,7 @@ textarea::-ms-input-placeholder
     transition: .3s ease-in-out;
 }
 .info-top li a:hover{
-    color: #3cce85;
+    color: #339262;
 }
 .info-left-info{
     color: #ffffff;
@@ -807,7 +807,7 @@ textarea::-ms-input-placeholder
     line-height: 65px;
     color: #ffffff;
     font-size: 30px;
-    background: #3cce85;
+    background: #286e4b;
     position: absolute;
     bottom:65px;
     left: 50%;
@@ -824,7 +824,7 @@ textarea::-ms-input-placeholder
     -ms-box-shadow:2px 2px 5px 0 rgba(55,50,40, .20);
 }
 .scrollup:hover{
-    background: #008ac4;
+    background: #00a7c4;
     color: #fff;
     transform:scale(1.1);
 }
@@ -852,7 +852,7 @@ textarea::-ms-input-placeholder
     transition: .3s ease-in-out;
 }
 .social a i:hover{
-    background: #3cce85;
+    background: #34aa6f;
 }
 
 
